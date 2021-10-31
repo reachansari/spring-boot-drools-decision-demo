@@ -1,7 +1,7 @@
 ![](./img/header.png)
 
 # spring-boot-drools-demo
-Spring boot drools decision table.
+Spring boot drools decision table example.
 
 ## Rest Controller
 The class `OrderDiscountController.java` contains the endpoint which executes the business logic and returns response.
@@ -21,3 +21,4 @@ The class `OrderDiscountController.java` contains the endpoint which executes th
 ## Reference
 Please follow on my medium for detailed explainations
 
+https://medium.com/@reachansari/spring-boot-drools-decision-table-example-fd569eec56e0
